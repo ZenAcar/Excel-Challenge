@@ -6,7 +6,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 
 
-## Instructions
+## Objective
 
 ![Kickstarter Table](Images/FullTable.PNG)
 
