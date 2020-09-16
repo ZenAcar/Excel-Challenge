@@ -64,7 +64,7 @@ Also,
   * `Percentage Failed`
   * `Percentage Canceled`
 
-* In the `Goal` column, create 12 rows with the following headers:
+* In the `Goal` column, created 12 rows with the following headers:
 
   * Less than 1000
   * 1000 to 4999
@@ -83,7 +83,7 @@ Also,
 
 * Counted how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populated the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
-* Added up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then,were found the percentage of projects that were successful, failed, or canceled per goal range.
+* Each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns were added to populate the `Total Projects` column. Then, the percentage of projects that were successful, failed, or canceled per goal range is found.
 
 * Created a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
